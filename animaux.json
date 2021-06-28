@@ -1,0 +1,57 @@
+{
+    "Animaux": [
+      {
+        "nom": "celeste",
+        "sexe" : "femelle",
+        "couleur": "bicolore",
+        "detail": "je suis une flippette",
+        "age": 2,
+        "image": "Celeste.jpg",
+        "visible":"visible à l'assoiation"
+      },
+      {
+        "nom": "Haribo",
+        "sexe" : "mâle",
+        "couleur": "tabby",
+        "detail": "j'adore les calin'",
+        "age": 4,
+        "image": "Haribo.jpg",
+        "visible":"visible en FA"
+      },
+      {
+        "nom": "léon",
+        "sexe" : "mâle",
+        "couleur": "noir",
+        "detail": "je suis une flippette",
+        "age": 4,
+        "image": "Leon.jpg",
+        "visible":"visible à l'association"
+      },
+      {
+        "nom": "Ohanna",
+        "sexe" : "femelle",
+        "couleur": "gris",
+        "detail": "je suis une gourmande",
+        "age": 4,
+        "image": "Ohanna2.jpg",
+        "visible":"visible en FA"
+      },
+      {
+        "nom": "Una",
+        "sexe" : "noir",
+        "couleur": "bicolore",
+        "detail": "je suis une maline",
+        "age": 3,
+        "image": "Una.jpg",
+        "visible":"visible à l'association"
+      },
+      {
+        "nom": "balou",
+        "sexe" : "mâle",
+        "couleur": "bicolore",
+        "detail": "je suis un coquain",
+        "age": 10,
+        "image": "Balou2.jpg",
+        "visible":"visible en FA"
+      }
+    ]}

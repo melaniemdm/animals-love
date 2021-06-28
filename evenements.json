@@ -1,0 +1,26 @@
+{
+    "Event": [
+      {
+        "events":"collecte",
+        "image": "Collecte26_06_21.png",
+        "lieu": "carrefour Market",
+        "date": "le 21 juin 2021",
+        "detail": "collecte alimentaire au profit de l'ASMAA"
+      },
+      {
+          "events":"concours",
+          "image": "concours_chien3.png",
+          "lieu": "Place des Marronniers",
+          "date": " le 25 septembre 2021 à 15h00",
+          "detail": "Organisé par l'ASMAA"
+        },
+        {
+          "events":"alerte",
+          "image": "stop_abandon_v2.png",
+          "lieu": "Stop à m'abandon à la veille des vacances ",
+          "date": " Il y a toujours une solution ! ",
+          "detail": " "
+        } 
+      ]
+    }
+      
