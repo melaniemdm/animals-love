@@ -61,7 +61,7 @@ return newLetter
 
     
 async function recupereJsonMedia() {
-        let url = "http://melaniemdm.github.io/animals-love/evenements.json";
+        let url = "https://melaniemdm.github.io/animals-love/evenements.json";
         let rep = await fetch(url, { method: "GET" });
         let reponse = await rep.json();
          let tabloEvent = reponse["Event"];
