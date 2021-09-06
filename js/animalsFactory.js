@@ -22,7 +22,7 @@ animal.createComposantHtml = function () {
     var composant = 
 `
 <div class="zoom espace max-w-sm mx-auto overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-800">
-    <img class="object-cover object-center w-full h-56" src="../photos/`+animal.image +`" alt="avatar">
+    <img class="object-cover object-center w-full h-56" src="./photos/`+animal.image +`" alt="avatar">
     
     <div class="flex items-center px-6 py-3 bg-gray-900">
     <i class="fas fa-paw"></i>

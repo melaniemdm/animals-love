@@ -44,7 +44,7 @@ class EvenementFactory{
         <p class="mt-1 text-sm text-gray-600 dark:text-gray-400">`+ newLetter.lieu +`<br>  `+ newLetter.date + `</p>
     </div>
 <div class="zoomEV rect">
-    <img class=" imageEv object-cover w-full h-48 mt-2" src="../photos/`+newLetter.image +`" alt="NIKE AIR">
+    <img class=" imageEv object-cover w-full h-48 mt-2" src="./photos/`+newLetter.image +`" alt="NIKE AIR">
 </div>
     <div class="flex items-center justify-between px-4 py-2 bg-gray-900">
         <h1 class="text-lg font-bold text-white">. </h1>
