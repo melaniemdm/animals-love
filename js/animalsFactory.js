@@ -70,7 +70,7 @@ return animal
 
     
 async function recupereJsonMedia() {
-        let url = "http://127.0.0.1:5500/animaux.json";
+        let url = "http://melaniemdm.github.io/animals-love/animaux.json";
         let rep = await fetch(url, { method: "GET" });
         let reponse = await rep.json();
          let tabloAnimaux = reponse["Animaux"];
